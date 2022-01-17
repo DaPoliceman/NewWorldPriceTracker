@@ -1,0 +1,12 @@
+
+
+body {
+  padding-top: 65px;
+  transition-duration: 1s;
+  background: radial-gradient(circle, #02050e, #050d24);
+  color: white;
+}
+
+p {
+  color: white;
+}
